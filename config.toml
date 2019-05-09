@@ -1,0 +1,17 @@
+baseURL = "https://Felyne.github.io/"
+languageCode = "en-us"
+title = "Felyne Blog"
+theme = "hugo-theme-m10c"
+auhtor = "Felyne"
+description = "This is a blog to record work and life"
+paginate = 10
+
+[params]
+  author = "Felyne"
+  description = "Record interesting things at work and life, and learn to enjoy life"
+  [[params.social]]
+  name = "github"
+  url = "https://github.com/Felyne"
+  [[params.social]]
+    name = "twitter"
+    url = "https://twitter.com/gohugoio"
