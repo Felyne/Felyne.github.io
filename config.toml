@@ -13,5 +13,5 @@ paginate = 10
   name = "github"
   url = "https://github.com/Felyne"
   [[params.social]]
-    name = "twitter"
-    url = "https://twitter.com/gohugoio"
+    name = "csdn"
+    url = "https://blog.csdn.net/tuobicui6522"
